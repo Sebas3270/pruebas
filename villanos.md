@@ -7,3 +7,5 @@
 4. Doomsday
 5. Deadshot
 6. Venom
+7. Capitan Frío
+8. Gorilla Grod
